@@ -1,0 +1,2 @@
+class RetailCalculator
+end
